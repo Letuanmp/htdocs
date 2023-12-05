@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>admin &#8211; Plant Shop</title>
+	<atom:link href="http://localhost/author/admin/feed/?simply_static_page=592" rel="self" type="application/rss+xml" />
+	<link>https://letuanmp.github.io/htdocs/</link>
+	<description>Không ngon không lấy tiền</description>
+	<lastBuildDate>Sun, 19 Nov 2023 07:30:54 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.1</generator>
+
+<image>
+	<url>https://letuanmp.github.io/htdocs/wp-content/uploads/2023/11/Bread_shop.png</url>
+	<title>admin &#8211; Plant Shop</title>
+	<link>https://letuanmp.github.io/htdocs/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Chào tất cả mọi người!</title>
+		<link>https://letuanmp.github.io/htdocs/2023/11/19/chao-moi-nguoi/</link>
+					<comments>https://letuanmp.github.io/htdocs/2023/11/19/chao-moi-nguoi/#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 19 Nov 2023 07:30:54 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<guid isPermaLink="false">https://letuanmp.github.io/htdocs/?p=1</guid>
+
+					<description><![CDATA[Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!]]></description>
+										<content:encoded><![CDATA[
+<p>Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://letuanmp.github.io/htdocs/2023/11/19/chao-moi-nguoi/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

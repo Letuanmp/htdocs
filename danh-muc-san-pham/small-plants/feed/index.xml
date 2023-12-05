@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Small Plants &#8211; Plant Shop</title>
+	<atom:link href="http://localhost/danh-muc-san-pham/small-plants/feed/?simply_static_page=588" rel="self" type="application/rss+xml" />
+	<link>https://letuanmp.github.io/htdocs/</link>
+	<description>Không ngon không lấy tiền</description>
+	<lastBuildDate>Sat, 02 Dec 2023 17:26:29 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.1</generator>
+
+<image>
+	<url>https://letuanmp.github.io/htdocs/wp-content/uploads/2023/11/Bread_shop.png</url>
+	<title>Small Plants &#8211; Plant Shop</title>
+	<link>https://letuanmp.github.io/htdocs/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Bánh mì Xúc xích pho-mai</title>
+		<link>https://letuanmp.github.io/htdocs/san-pham/pachira-braid/</link>
+					<comments>https://letuanmp.github.io/htdocs/san-pham/pachira-braid/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 18 Aug 2021 03:20:53 +0000</pubDate>
+				<guid isPermaLink="false">https://letuanmp.github.io/htdocs/san-pham/pachira-braid/</guid>
+
+					<description><![CDATA[<strong>Bánh mì xúc xích pho-mai</strong> là sự hòa quyện tuyệt vời giữa lớp vỏ bánh mì giòn thơm cùng xúc xích và lớp pho-mai béo ngậy. Xốt mật ong lá thơm khiến cho mỗi miếng bánh đều đậm đà, ngon miệng.
+Xúc xích, thịt gà và pate  trong bánh cung cấp lượng protein cần thiết, pho-mai là nguồn canxi hữu ích cho cơ thể. Kết hợp với rau xanh tươi ngon, Bánh mì xúc xích pho-mai không chỉ là một lựa chọn ngon miệng mà còn là bữa ăn bổ dưỡng cho cả gia đình.]]></description>
+										<content:encoded><![CDATA[<p><b>Nguyên liệu:<br />
+</b>Bánh mì: Banh mi<br />
+Xúc xích: Pork sausage<br />
+Pho-mai: Cheese<br />
+Pate: Pork pate<br />
+Dưa chuột: Cucumber<br />
+Xốt mật ong lá thơm: Honey and herb sauce</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://letuanmp.github.io/htdocs/san-pham/pachira-braid/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
